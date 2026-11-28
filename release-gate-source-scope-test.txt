@@ -1,1 +1,0 @@
-Release Gate source namespace test
