@@ -1,4 +1,0 @@
-container:
-  network: "host"
-  
-pr-2
